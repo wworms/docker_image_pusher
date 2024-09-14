@@ -1,1 +1,1 @@
-bitnami/minideb:latest
+bitnami/minideb:bullseye
