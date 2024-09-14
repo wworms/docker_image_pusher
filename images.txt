@@ -1,1 +1,1 @@
-oracle/weblogic:10.0.36
+oraclelinux:7
