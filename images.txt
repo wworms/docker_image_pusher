@@ -1,1 +1,1 @@
-bitnami/minideb:bookworm
+bitnami/minideb:latest
