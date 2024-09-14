@@ -1,1 +1,1 @@
-rabbitmq:3.13.0-management
+xxl-job-admin:2.3.1
