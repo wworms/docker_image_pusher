@@ -1,1 +1,1 @@
-rocketmq:5.1.0
+rocketmq:5.2.0
