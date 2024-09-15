@@ -1,1 +1,1 @@
-casbin/casibase
+ubuntu:24.04
