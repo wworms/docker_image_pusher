@@ -1,1 +1,1 @@
-drakkan/sftpgo
+node:bullseye
