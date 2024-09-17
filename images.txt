@@ -1,1 +1,1 @@
-node:alpine
+docker.seafile.top/seafileltd/seafile-pro-mc:12.0-latest
