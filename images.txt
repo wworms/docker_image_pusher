@@ -1,1 +1,1 @@
-docker.seafile.top/seafileltd/seafile-pro-mc:12.0-latest
+docker.seafile.top/seafileltd/seafile-pro-mc:11.0.13
