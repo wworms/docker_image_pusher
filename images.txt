@@ -1,1 +1,1 @@
-node:buster
+node:bullseye-slim 
