@@ -1,1 +1,1 @@
-node:lts-bullseye-slim
+node:alpine
