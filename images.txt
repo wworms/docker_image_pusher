@@ -1,1 +1,1 @@
-docker.seafile.top/seafileltd/seafile-pro-mc:11.0.13
+elasticsearch:7.16.2
