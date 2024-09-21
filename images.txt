@@ -1,1 +1,1 @@
-ceph/osd
+ceph/radosgw
