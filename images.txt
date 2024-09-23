@@ -1,1 +1,1 @@
-ceph/radosgw
+quay.io/ceph/ceph
