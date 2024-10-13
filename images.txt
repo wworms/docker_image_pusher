@@ -1,1 +1,1 @@
-owncloud:latest
+mysql:5.6
