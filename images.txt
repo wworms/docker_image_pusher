@@ -1,1 +1,1 @@
-wordpress
+swoole/swoole-http-server:latest
