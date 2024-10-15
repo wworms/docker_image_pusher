@@ -1,1 +1,1 @@
-eugencepoi/nsfw_api:latest
+roywangdev/nsfw_api:latest
