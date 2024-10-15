@@ -1,1 +1,1 @@
-lepus
+ismaleiva90/weblogic12:latest
