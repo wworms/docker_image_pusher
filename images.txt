@@ -1,1 +1,1 @@
-swoole/swoole-http-server:latest
+eugencepoi/nsfw_api:latest
