@@ -1,1 +1,1 @@
-bitnami/prometheus
+prom/node-exporter
