@@ -1,1 +1,1 @@
-roywangdev/nsfw_api:latest
+dko0/lsky-pro
