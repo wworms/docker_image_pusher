@@ -1,1 +1,1 @@
-ismaleiva90/weblogic12:latest
+php:5-fpm
