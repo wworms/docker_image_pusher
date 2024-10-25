@@ -1,1 +1,1 @@
-truevoly/oracle-12c
+zookeeper:3.5.8
