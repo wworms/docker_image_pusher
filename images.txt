@@ -1,1 +1,1 @@
-openzipkin/zipkin
+mysql:8.4.2
