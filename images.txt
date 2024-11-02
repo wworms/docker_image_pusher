@@ -1,1 +1,1 @@
-ubuntu:22.04
+wordpress:php7.3
