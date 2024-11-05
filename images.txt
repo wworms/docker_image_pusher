@@ -1,1 +1,1 @@
-wodby/varnish:6.0-4.18.4
+serversideup:8.3-fpm-nginx
