@@ -1,1 +1,1 @@
-serversideup:8.3-fpm-nginx
+serversideup/php:8.1-fpm-nginx
