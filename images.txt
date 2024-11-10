@@ -1,1 +1,1 @@
-alpine:edge
+mongo:6.0
