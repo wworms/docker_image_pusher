@@ -1,1 +1,1 @@
-registry.k8s.io/kubectl:v1.31.2
+k8s.gcr.io/conformance:v1.25.0
