@@ -1,1 +1,1 @@
-docker.io/flannel/flannel:v0.26.1
+docker.io/calico/cni:v3.29.0
