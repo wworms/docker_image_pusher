@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.29.0
+docker.io/kubernetesui/dashboard-auth:1.1.3
