@@ -1,1 +1,1 @@
-docker.io/calico/node:v3.30.1
+ocker.io/calico/kube-controllers:v3.30.1
