@@ -1,1 +1,1 @@
-sath89/oracle-12c
+docker.io/kubernetesui/dashboard-auth:1.4.0
