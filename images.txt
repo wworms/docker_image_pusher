@@ -1,1 +1,1 @@
-docker.io/library/kong:3.6
+quay.io/cilium/cilium-etcd-operator:v2.0.7
