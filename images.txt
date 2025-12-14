@@ -1,1 +1,1 @@
-quay.io/cilium/cilium-etcd-operator:v2.0.7
+jenkins/jenkins:2.300
