@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.8.5
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0
